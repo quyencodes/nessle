@@ -23,7 +23,7 @@
 
 1. Clone the repo
    ```bash
-   $ git clone https://github.com/quyencodes/moonbridge.git
+   $ git clone https://github.com/quyencodes/nessle.git
    ```
 2. Install NPM packages
    ```bash
