@@ -1,7 +1,4 @@
-// npm imports
 import React, { useState } from 'react'
-// local imports
-// type imports
 
 interface Props {
   addTaskHandler: (taskDescription: string) => void

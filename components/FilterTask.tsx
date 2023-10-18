@@ -1,5 +1,3 @@
-import { useState } from 'react'
-
 interface Props {
   filter: string
   setFilter: (x: 'default' | 'completed' | 'active') => void
