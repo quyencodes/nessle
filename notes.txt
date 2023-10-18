@@ -1,0 +1,18 @@
+Requirements:
+- Use React and CSS for Styling
+
+Tasks Input:
+- Input field to type in a task
+- Button to add the task
+
+Tasks List:
+- Display each task with a checkbox next to to
+- Tasks that are checked off should be visually distinct
+- Each task should have a delete button next to it to remove it from the list
+
+Filtering Tasks:
+- Have buttons or a dropdown to filter tasks based on their status
+
+Bonus:
+- Store tasks in browser's local storage so that tasks persist even after a page refresh
+- Add the ability to edit an existing task
