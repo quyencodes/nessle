@@ -18,7 +18,7 @@ const SampleData: TaskType[] = [
 ]
 
 export default function Home() {
-  const idRef = useRef(5)
+  const idRef = useRef(5) // started id at 5 because of sample data
   const [tasks, setTasks] = useState<TaskType[]>(SampleData)
   const [filter, setFilter] = useState<'default' | 'completed' | 'active'>(
     'default'
